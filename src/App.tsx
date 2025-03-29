@@ -10,7 +10,7 @@ function App() {
         <Routes>
           <Route path="/" element={
             <main className="max-w-7xl mx-auto px-4 py-8">
-              <h1 className="text-3xl font-serif">VICTOR TELLAGIO</h1>
+              <h1 className="text-3xl font-serif">TEST</h1>
               <p className="mt-4 font-sans">DJ & Producer</p>
             </main>
           } />
